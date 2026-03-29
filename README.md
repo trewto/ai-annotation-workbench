@@ -89,7 +89,7 @@ pip install -r requirements.txt
 ## ▶️ Usage
 
 ```bash
-python annotator_v0.77.py
+python annotator_v0.78.py
 ```
 
 ### Steps:
